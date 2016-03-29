@@ -17601,7 +17601,8 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Build>0</Build>
       <Revision>1</Revision>
     </Version>
-    <ExtensionDescription>FanartHandler Studios images for Medaportal skins
+    <ExtensionDescription>FanartHandler Studios images for Medaportal skins
+
 White 161x109 pack</ExtensionDescription>
     <VersionDescription>Initial ...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
