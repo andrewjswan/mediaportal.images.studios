@@ -155,7 +155,9 @@
           <Build>0</Build>
           <Revision>1</Revision>
         </Version>
-        <ExtensionDescription>FanartHandler Studios images for Medaportal skins</ExtensionDescription>
+        <ExtensionDescription>FanartHandler Studios images for Medaportal skins
+
+White 161x109 pack</ExtensionDescription>
         <VersionDescription>Initial ...</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>

@@ -17601,7 +17601,8 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Build>0</Build>
       <Revision>1</Revision>
     </Version>
-    <ExtensionDescription>FanartHandler Studios images for Medaportal skins</ExtensionDescription>
+    <ExtensionDescription>FanartHandler Studios images for Medaportal skins
+White 161x109 pack</ExtensionDescription>
     <VersionDescription>Initial ...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
@@ -35090,7 +35091,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{d5eed6db-1a31-4e2f-969a-3c31fc565860}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{d61f4d85-2b43-4fc6-9b6b-f8b8e083214c}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
