@@ -155,7 +155,7 @@
           <Build>0</Build>
           <Revision>1</Revision>
         </Version>
-        <ExtensionDescription>Studios for Medaportal</ExtensionDescription>
+        <ExtensionDescription>FanartHandler Studios images for Medaportal skins</ExtensionDescription>
         <VersionDescription>Initial ...</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
@@ -177,7 +177,7 @@
  If it has .dll extension it's started like MP plugin configuration.</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value />
+              <Value>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/screenshot/scr.studios.01.png;https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/screenshot/scr.studios.02.png;https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/screenshot/scr.studios.03.png;https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/screenshot/scr.studios.04.png;https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/screenshot/scr.studios.05.png</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
