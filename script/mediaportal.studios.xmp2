@@ -35092,7 +35092,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{d61f4d85-2b43-4fc6-9b6b-f8b8e083214c}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{efd75df2-27fc-4553-8892-1ae601e81fb0}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
