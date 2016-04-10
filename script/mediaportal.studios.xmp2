@@ -10243,6 +10243,13 @@
               <ZipFileName>Installer{CopyFile}\{a8b35414-352d-48f2-8c7d-f7c3724ca8ac}-_____ _____.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Пятый канал.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\ICTV.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bf8ff8ee-5b7b-450e-82e5-c40f11285102}-ICTV.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ICTV.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -10389,17 +10396,13 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>3</Revision>
+      <Revision>5</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
 White 161x109 pack</ExtensionDescription>
-    <VersionDescription>All pictures - 161x109
-Add Sky 1, Sky 3
-Add 1+1, Інтер, НТВ, Первый канал, Пятый канал
-Update Channel 4
-Update СТС, ТНТ, Союзмультфильм
-</VersionDescription>
+    <VersionDescription>Update 21st Century Film Corporation
+New screenshots ...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
     <ReleaseDate>2016-04-10T13:46:50</ReleaseDate>
@@ -20673,11 +20676,18 @@ Update СТС, ТНТ, Союзмультфильм
         <ZipFileName>Installer{CopyFile}\{a8b35414-352d-48f2-8c7d-f7c3724ca8ac}-_____ _____.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Пятый канал.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\ICTV.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bf8ff8ee-5b7b-450e-82e5-c40f11285102}-ICTV.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ICTV.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{542f92bb-9386-4b0f-81de-b2559155ec62}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{0b983250-046e-4054-bfdf-fb75c7ee3747}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>

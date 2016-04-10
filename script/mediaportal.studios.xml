@@ -55,17 +55,13 @@
           <Major>1</Major>
           <Minor>0</Minor>
           <Build>0</Build>
-          <Revision>3</Revision>
+          <Revision>5</Revision>
         </Version>
         <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
 White 161x109 pack</ExtensionDescription>
-        <VersionDescription>All pictures - 161x109
-Add Sky 1, Sky 3
-Add 1+1, Інтер, НТВ, Первый канал, Пятый канал
-Update Channel 4
-Update СТС, ТНТ, Союзмультфильм
-</VersionDescription>
+        <VersionDescription>Update 21st Century Film Corporation
+New screenshots ...</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
         <ReleaseDate>2016-04-10T13:46:50</ReleaseDate>
