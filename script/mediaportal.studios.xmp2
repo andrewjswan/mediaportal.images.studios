@@ -11916,6 +11916,62 @@
               <ZipFileName>Installer{CopyFile}\{e6c1a0f4-31e4-402a-afcb-71d061deaf20}-_____-______.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Рекун-Синема.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Right Coast Productions.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{77f26395-4e5c-4058-9c04-6d461b97aa03}-Right Coast Productions.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Right Coast Productions.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Госкино.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7cb3e740-bfad-4c28-a249-c5ebd6cefdd6}-_______.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Госкино.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Грузия-фильм.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4bc71056-d7a5-4ab5-b686-1d8229c2e71d}-______-_____.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Грузия-фильм.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Киностудия Горького.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{82c63898-ff51-439f-83f9-0c524a7925ef}-__________ ________.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Киностудия Горького.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Ленфильм.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{55b1f2ef-ce85-42f6-8ca7-6bc353b6b6d2}-________.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Ленфильм.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Литовская киностудия.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d6f699c0-9b46-41e8-89f5-fb54726f7aa5}-_________ __________.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Литовская киностудия.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Союздетфильм.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1e285f72-46f1-4f67-97fa-ed2a1d02994c}-____________.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Союздетфильм.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Студия Тритэ.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4cac4e21-2d88-4fec-8b52-c4663357e65d}-______ _____.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Студия Тритэ.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -12079,21 +12135,12 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>9</Revision>
+      <Revision>10</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
 White 161x109 pack</ExtensionDescription>
-    <VersionDescription>* Add: 
-MadRiver Pictures.png
-Mystery Clock Cinema.png
-Thunder Road.png
-
-Change: 
-1+1.png
-Syfy.png
-Первый канал.png
-</VersionDescription>
+    <VersionDescription>* Add some new studios</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
     <ReleaseDate>2016-05-21T13:46:50</ReleaseDate>
@@ -24040,6 +24087,62 @@ Syfy.png
         <ZipFileName>Installer{CopyFile}\{e6c1a0f4-31e4-402a-afcb-71d061deaf20}-_____-______.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Рекун-Синема.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Right Coast Productions.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{77f26395-4e5c-4058-9c04-6d461b97aa03}-Right Coast Productions.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Right Coast Productions.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Госкино.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{7cb3e740-bfad-4c28-a249-c5ebd6cefdd6}-_______.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Госкино.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Грузия-фильм.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4bc71056-d7a5-4ab5-b686-1d8229c2e71d}-______-_____.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Грузия-фильм.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Киностудия Горького.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{82c63898-ff51-439f-83f9-0c524a7925ef}-__________ ________.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Киностудия Горького.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Ленфильм.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{55b1f2ef-ce85-42f6-8ca7-6bc353b6b6d2}-________.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Ленфильм.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Литовская киностудия.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d6f699c0-9b46-41e8-89f5-fb54726f7aa5}-_________ __________.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Литовская киностудия.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Союздетфильм.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{1e285f72-46f1-4f67-97fa-ed2a1d02994c}-____________.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Союздетфильм.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Студия Тритэ.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4cac4e21-2d88-4fec-8b52-c4663357e65d}-______ _____.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Студия Тритэ.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -24051,7 +24154,7 @@ Syfy.png
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{3919f09f-ec7f-45ad-a49a-a0c8b854ac3c}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{41deec56-ec78-45df-806b-322271239389}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>

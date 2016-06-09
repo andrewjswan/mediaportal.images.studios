@@ -63,21 +63,12 @@
           <Major>1</Major>
           <Minor>0</Minor>
           <Build>0</Build>
-          <Revision>9</Revision>
+          <Revision>10</Revision>
         </Version>
         <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
 White 161x109 pack</ExtensionDescription>
-        <VersionDescription>* Add: 
-MadRiver Pictures.png
-Mystery Clock Cinema.png
-Thunder Road.png
-
-Change: 
-1+1.png
-Syfy.png
-Первый канал.png
-</VersionDescription>
+        <VersionDescription>* Add some new studios</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
         <ReleaseDate>2016-05-21T13:46:50</ReleaseDate>
