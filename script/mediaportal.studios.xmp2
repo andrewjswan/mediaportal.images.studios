@@ -11972,6 +11972,104 @@
               <ZipFileName>Installer{CopyFile}\{4cac4e21-2d88-4fec-8b52-c4663357e65d}-______ _____.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Студия Тритэ.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\ABC2.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2c61bb76-bc21-4d37-88a2-4d28eac556ea}-ABC2.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ABC2.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\BBC Four.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c4e96624-916d-412e-ada3-4d90ed456c8e}-BBC Four.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\BBC Four.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\CNBC.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5f85388e-8af5-4eed-9e76-96cc0e5e69d2}-CNBC.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\CNBC.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Freeform.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{220e1e1b-23aa-42a7-ae80-d8b6d8b1df28}-Freeform.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Freeform.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\LifeStyle.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{50148ee6-245e-44c5-ba16-162aac7622dc}-LifeStyle.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\LifeStyle.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Play UK.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{921f6f01-b937-4a1d-a816-308edc93c687}-Play UK.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Play UK.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\RTE One.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{74a73e7e-5596-4734-93da-b6cd5585a574}-RTE One.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\RTE One.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\SBS (AU).png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ac3f8ba1-e4d2-448c-9696-de7a1e509454}-SBS (AU).png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\SBS (AU).png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\SoHo.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{399ec206-aea8-47d0-acd2-3764da3cc85f}-SoHo.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\SoHo.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Travel Channel.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5e77dd65-2c51-4b4d-a4f1-a1361598210c}-Travel Channel.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Travel Channel.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\truTV.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2491c81a-6ef9-4c81-b4fb-bf7587a12e07}-truTV.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\truTV.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\TV3 (NZ).png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{50aef11f-520c-4b6d-a815-f16f1c50a563}-TV3 (NZ).png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV3 (NZ).png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Velocity.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{08bb49a0-6c89-47bc-b23a-242fd1160c30}-Velocity.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Velocity.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Viceland.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f270d9c7-a351-4f0e-806b-a47c609fbf8f}-Viceland.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Viceland.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -12135,15 +12233,15 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>10</Revision>
+      <Revision>11</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
 White 161x109 pack</ExtensionDescription>
-    <VersionDescription>* Add some new studios</VersionDescription>
+    <VersionDescription>Added some logos and updated others</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2016-05-21T13:46:50</ReleaseDate>
+    <ReleaseDate>2016-07-03T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -24143,6 +24241,104 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{4cac4e21-2d88-4fec-8b52-c4663357e65d}-______ _____.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Студия Тритэ.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\ABC2.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2c61bb76-bc21-4d37-88a2-4d28eac556ea}-ABC2.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ABC2.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\BBC Four.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c4e96624-916d-412e-ada3-4d90ed456c8e}-BBC Four.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\BBC Four.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\CNBC.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5f85388e-8af5-4eed-9e76-96cc0e5e69d2}-CNBC.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\CNBC.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Freeform.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{220e1e1b-23aa-42a7-ae80-d8b6d8b1df28}-Freeform.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Freeform.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\LifeStyle.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{50148ee6-245e-44c5-ba16-162aac7622dc}-LifeStyle.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\LifeStyle.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Play UK.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{921f6f01-b937-4a1d-a816-308edc93c687}-Play UK.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Play UK.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\RTE One.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{74a73e7e-5596-4734-93da-b6cd5585a574}-RTE One.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\RTE One.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\SBS (AU).png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ac3f8ba1-e4d2-448c-9696-de7a1e509454}-SBS (AU).png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\SBS (AU).png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\SoHo.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{399ec206-aea8-47d0-acd2-3764da3cc85f}-SoHo.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\SoHo.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Travel Channel.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5e77dd65-2c51-4b4d-a4f1-a1361598210c}-Travel Channel.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Travel Channel.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\truTV.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2491c81a-6ef9-4c81-b4fb-bf7587a12e07}-truTV.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\truTV.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\TV3 (NZ).png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{50aef11f-520c-4b6d-a815-f16f1c50a563}-TV3 (NZ).png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV3 (NZ).png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Velocity.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{08bb49a0-6c89-47bc-b23a-242fd1160c30}-Velocity.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Velocity.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Viceland.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f270d9c7-a351-4f0e-806b-a47c609fbf8f}-Viceland.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Viceland.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -24154,7 +24350,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{41deec56-ec78-45df-806b-322271239389}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{2337ad14-3004-4fda-95e7-2dce6997c650}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
