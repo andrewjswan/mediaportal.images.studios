@@ -12070,6 +12070,111 @@
               <ZipFileName>Installer{CopyFile}\{f270d9c7-a351-4f0e-806b-a47c609fbf8f}-Viceland.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Viceland.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Axsiz.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f3fa7681-3d38-4db2-bbfe-f52b842e3e48}-Axsiz.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Axsiz.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Creators in Pack.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8ab91bf7-efa3-4041-aa73-000f5e42af59}-Creators in Pack.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Creators in Pack.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Emt Squared.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a33974dc-a6c3-4194-b374-cb3aa5849454}-Emt Squared.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Emt Squared.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Gathering.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{137b9979-57ce-47ed-becf-c18d791a3fc4}-Gathering.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Gathering.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Gokumi.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{777d0d88-e160-4337-9d05-354f0ee9b501}-Gokumi.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Gokumi.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\IMS.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5d6410c6-1857-4222-8817-75ed06c3e685}-IMS.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\IMS.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Lerche.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b93bdaca-5eab-4586-8b2e-165e831c87db}-Lerche.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Lerche.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Nexus.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{31ca30f6-0662-45a1-ab8d-3e891134f695}-Nexus.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Nexus.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Pine Jam.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c443455b-9779-414b-a342-a04a2c23e0cb}-Pine Jam.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Pine Jam.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Project No 9.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0dfd7eb2-1b68-40fb-bb9f-dc3654a03737}-Project No 9.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Project No 9.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Reed.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{db33abb0-17a8-4d2d-ba16-084a5d7bc189}-Reed.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Reed.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Shirogumi.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a735df1c-d274-436b-bbd0-573758b21efa}-Shirogumi.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Shirogumi.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Storm Cinema.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{70ff82ae-d6ba-4237-af77-50798e456157}-Storm Cinema.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Storm Cinema.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Troyca.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{782570a8-7cc0-44da-a87e-29ddb70d6e5d}-Troyca.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Troyca.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Tyo.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5987acc6-d1c4-4b1c-9497-6935c34abd78}-Tyo.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Tyo.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -12085,7 +12190,7 @@
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\..\..\C#\FanartHandler\Installer\config\FanartHandler.Studios.xml</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{e5d2b65e-63a9-4fce-8926-93401dcca37e}-FanartHandler.Studios.xml</ZipFileName>
-              <DestinationFilename>%Base%\FanartHandler.Studios.xml</DestinationFilename>
+              <DestinationFilename>%Config%\FanartHandler.Studios.xml</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -12233,15 +12338,16 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>11</Revision>
+      <Revision>12</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
 White 161x109 pack</ExtensionDescription>
-    <VersionDescription>Added some logos and updated others</VersionDescription>
+    <VersionDescription>Added some studios logos
+Fix FH.Studios config path ...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2016-07-03T13:46:50</ReleaseDate>
+    <ReleaseDate>2016-10-13T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -24339,18 +24445,123 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{f270d9c7-a351-4f0e-806b-a47c609fbf8f}-Viceland.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Viceland.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Axsiz.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f3fa7681-3d38-4db2-bbfe-f52b842e3e48}-Axsiz.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Axsiz.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Creators in Pack.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8ab91bf7-efa3-4041-aa73-000f5e42af59}-Creators in Pack.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Creators in Pack.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Emt Squared.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a33974dc-a6c3-4194-b374-cb3aa5849454}-Emt Squared.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Emt Squared.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Gathering.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{137b9979-57ce-47ed-becf-c18d791a3fc4}-Gathering.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Gathering.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Gokumi.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{777d0d88-e160-4337-9d05-354f0ee9b501}-Gokumi.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Gokumi.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\IMS.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5d6410c6-1857-4222-8817-75ed06c3e685}-IMS.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\IMS.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Lerche.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b93bdaca-5eab-4586-8b2e-165e831c87db}-Lerche.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Lerche.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Nexus.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{31ca30f6-0662-45a1-ab8d-3e891134f695}-Nexus.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Nexus.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Pine Jam.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c443455b-9779-414b-a342-a04a2c23e0cb}-Pine Jam.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Pine Jam.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Project No 9.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0dfd7eb2-1b68-40fb-bb9f-dc3654a03737}-Project No 9.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Project No 9.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Reed.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{db33abb0-17a8-4d2d-ba16-084a5d7bc189}-Reed.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Reed.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Shirogumi.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a735df1c-d274-436b-bbd0-573758b21efa}-Shirogumi.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Shirogumi.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Storm Cinema.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{70ff82ae-d6ba-4237-af77-50798e456157}-Storm Cinema.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Storm Cinema.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Troyca.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{782570a8-7cc0-44da-a87e-29ddb70d6e5d}-Troyca.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Troyca.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Tyo.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5987acc6-d1c4-4b1c-9497-6935c34abd78}-Tyo.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Tyo.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\..\..\C#\FanartHandler\Installer\config\FanartHandler.Studios.xml</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{e5d2b65e-63a9-4fce-8926-93401dcca37e}-FanartHandler.Studios.xml</ZipFileName>
-        <DestinationFilename>%Base%\FanartHandler.Studios.xml</DestinationFilename>
+        <DestinationFilename>%Config%\FanartHandler.Studios.xml</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{2337ad14-3004-4fda-95e7-2dce6997c650}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{dd054b3a-db28-4b65-9c67-294a0f3e2383}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
