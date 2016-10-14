@@ -12175,6 +12175,48 @@
               <ZipFileName>Installer{CopyFile}\{5987acc6-d1c4-4b1c-9497-6935c34abd78}-Tyo.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Tyo.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\blade.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{65dd5352-4afa-4752-a619-ad48399ced07}-blade.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\blade.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\liden films.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ff269bb6-8be1-4c35-8eec-ec479bfc62e9}-liden films.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\liden films.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\mappa.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{086e0412-7b1e-46ec-b992-b3cc0c5fd6f4}-mappa.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\mappa.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\sanzigen.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{030ebe6e-65b6-4d22-ae0e-edd3e3f96fda}-sanzigen.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\sanzigen.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\seven.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0fca7cf4-f193-488b-b118-4c55bec7d568}-seven.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\seven.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\studio 3hz.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e1b886b6-c7f0-4950-8db1-e9bcec3d4866}-studio 3hz.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\studio 3hz.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -12338,13 +12380,13 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>12</Revision>
+      <Revision>13</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
 White 161x109 pack</ExtensionDescription>
-    <VersionDescription>Added some studios logos
-Fix FH.Studios config path ...</VersionDescription>
+    <VersionDescription>Added some new studios logos...
+</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
     <ReleaseDate>2016-10-13T13:46:50</ReleaseDate>
@@ -24550,6 +24592,48 @@ Fix FH.Studios config path ...</VersionDescription>
         <ZipFileName>Installer{CopyFile}\{5987acc6-d1c4-4b1c-9497-6935c34abd78}-Tyo.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Tyo.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\blade.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{65dd5352-4afa-4752-a619-ad48399ced07}-blade.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\blade.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\liden films.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ff269bb6-8be1-4c35-8eec-ec479bfc62e9}-liden films.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\liden films.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\mappa.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{086e0412-7b1e-46ec-b992-b3cc0c5fd6f4}-mappa.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\mappa.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\sanzigen.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{030ebe6e-65b6-4d22-ae0e-edd3e3f96fda}-sanzigen.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\sanzigen.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\seven.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0fca7cf4-f193-488b-b118-4c55bec7d568}-seven.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\seven.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\studio 3hz.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e1b886b6-c7f0-4950-8db1-e9bcec3d4866}-studio 3hz.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\studio 3hz.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -24561,7 +24645,7 @@ Fix FH.Studios config path ...</VersionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{dd054b3a-db28-4b65-9c67-294a0f3e2383}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{f313f387-9d56-4f48-9fe6-be610c1fb26a}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
