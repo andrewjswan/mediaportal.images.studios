@@ -12217,6 +12217,20 @@
               <ZipFileName>Installer{CopyFile}\{e1b886b6-c7f0-4950-8db1-e9bcec3d4866}-studio 3hz.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\studio 3hz.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\huahua.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a7a3dac5-96a8-4f9c-bef7-a7a01c5de10b}-huahua.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\huahua.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\YTV.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8250b6ca-46ed-4cad-a465-69b585113f12}-YTV.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\YTV.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -12380,16 +12394,16 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>13</Revision>
+      <Revision>14</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
 White 161x109 pack</ExtensionDescription>
-    <VersionDescription>Added some new studios logos...
+    <VersionDescription>Added Huahua. YTV
 </VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2016-10-13T13:46:50</ReleaseDate>
+    <ReleaseDate>2017-01-19T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -24634,6 +24648,20 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{e1b886b6-c7f0-4950-8db1-e9bcec3d4866}-studio 3hz.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\studio 3hz.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\huahua.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a7a3dac5-96a8-4f9c-bef7-a7a01c5de10b}-huahua.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\huahua.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\YTV.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8250b6ca-46ed-4cad-a465-69b585113f12}-YTV.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\YTV.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -24645,7 +24673,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{f313f387-9d56-4f48-9fe6-be610c1fb26a}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{64757da8-d4ea-4a90-b94e-459add9fc23f}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
