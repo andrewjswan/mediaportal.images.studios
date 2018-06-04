@@ -13785,6 +13785,55 @@
               <ZipFileName>Installer{CopyFile}\{064bd09d-edfc-4888-abf2-11ff1ec3afd4}-white rabbit.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\white rabbit.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\21st Century 3D.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{aaeff972-c211-449d-9fe9-bfb3f53ebd0d}-21st Century 3D.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\21st Century 3D.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Bayonne Entertainment.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bf856159-15dc-4255-9e1c-c47318412852}-Bayonne Entertainment.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Bayonne Entertainment.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\CrossDay Productions.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c2493154-5e6f-48e1-a316-5d8ba68b0bcc}-CrossDay Productions.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\CrossDay Productions.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Hartbreak Films.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9a76cd63-3305-4216-b7bb-9d797a15b9de}-Hartbreak Films.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Hartbreak Films.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Pan Europeenne.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a6d923ad-e7a8-4105-b65b-6db313fe3b8b}-Pan Europeenne.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Pan Europeenne.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Picture Farm.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3a4be4ee-8cb7-436e-b78e-4a4a583ef469}-Picture Farm.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Picture Farm.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Wonderland Sound and Vision.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e799bcbb-7841-4256-b38a-9303e0508b2b}-Wonderland Sound and Vision.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Wonderland Sound and Vision.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -13948,7 +13997,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>25</Revision>
+      <Revision>27</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -27770,6 +27819,55 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{064bd09d-edfc-4888-abf2-11ff1ec3afd4}-white rabbit.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\white rabbit.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\21st Century 3D.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{aaeff972-c211-449d-9fe9-bfb3f53ebd0d}-21st Century 3D.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\21st Century 3D.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Bayonne Entertainment.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bf856159-15dc-4255-9e1c-c47318412852}-Bayonne Entertainment.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Bayonne Entertainment.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\CrossDay Productions.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c2493154-5e6f-48e1-a316-5d8ba68b0bcc}-CrossDay Productions.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\CrossDay Productions.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Hartbreak Films.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9a76cd63-3305-4216-b7bb-9d797a15b9de}-Hartbreak Films.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Hartbreak Films.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Pan Europeenne.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a6d923ad-e7a8-4105-b65b-6db313fe3b8b}-Pan Europeenne.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Pan Europeenne.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Picture Farm.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3a4be4ee-8cb7-436e-b78e-4a4a583ef469}-Picture Farm.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Picture Farm.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Wonderland Sound and Vision.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e799bcbb-7841-4256-b38a-9303e0508b2b}-Wonderland Sound and Vision.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Wonderland Sound and Vision.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -27781,7 +27879,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{647d5f28-1f1e-45a7-90e1-bb658aba7e96}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{b201b6ad-5b84-418e-b4da-a7969932e3a9}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
