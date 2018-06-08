@@ -13890,6 +13890,41 @@
               <ZipFileName>Installer{CopyFile}\{b90ae464-3f6d-4cdc-91a8-5f7698f9f73f}-Tapestry Films.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Tapestry Films.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Cinema Production.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0bcb08f1-c171-4a02-85d0-4261c123dd4c}-Cinema Production.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Cinema Production.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Denver and Delilah Productions.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3be2055a-385e-419e-b026-1131be08ff93}-Denver and Delilah Productions.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Denver and Delilah Productions.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\FetisOFF IllusiON.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{75e00ad3-5f8e-4fe2-9efe-14935aa12757}-FetisOFF IllusiON.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\FetisOFF IllusiON.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Lizard Cinema Trade.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{32111023-d43d-435e-adbc-f2fc5fc5fc7f}-Lizard Cinema Trade.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Lizard Cinema Trade.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Picrow.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d92634c6-a101-4fb4-9e55-0839ada56ede}-Picrow.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Picrow.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -14053,7 +14088,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>29</Revision>
+      <Revision>31</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -14062,7 +14097,7 @@ White 161x109 pack</ExtensionDescription>
 </VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2018-06-07T13:46:50</ReleaseDate>
+    <ReleaseDate>2018-06-08T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -27980,6 +28015,41 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{b90ae464-3f6d-4cdc-91a8-5f7698f9f73f}-Tapestry Films.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Tapestry Films.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Cinema Production.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0bcb08f1-c171-4a02-85d0-4261c123dd4c}-Cinema Production.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Cinema Production.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Denver and Delilah Productions.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3be2055a-385e-419e-b026-1131be08ff93}-Denver and Delilah Productions.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Denver and Delilah Productions.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\FetisOFF IllusiON.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{75e00ad3-5f8e-4fe2-9efe-14935aa12757}-FetisOFF IllusiON.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\FetisOFF IllusiON.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Lizard Cinema Trade.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{32111023-d43d-435e-adbc-f2fc5fc5fc7f}-Lizard Cinema Trade.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Lizard Cinema Trade.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Picrow.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d92634c6-a101-4fb4-9e55-0839ada56ede}-Picrow.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Picrow.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -27991,7 +28061,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{c79c564f-77c3-4297-a36e-959580175714}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{ce36c322-6288-48ae-9cad-8a9395aa5033}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
