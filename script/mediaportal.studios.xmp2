@@ -13925,6 +13925,181 @@
               <ZipFileName>Installer{CopyFile}\{d92634c6-a101-4fb4-9e55-0839ada56ede}-Picrow.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Picrow.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\7 Bucks Entertainment.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4f53b02e-c9a7-4f13-b9f0-1b53dc37bd3b}-7 Bucks Entertainment.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\7 Bucks Entertainment.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\ASAP Entertainment.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ab472f42-a53d-4d1c-ad61-da8de5a0bd67}-ASAP Entertainment.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ASAP Entertainment.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Barking Cow Media Group.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{02a0f164-0974-4997-8154-f44af534082a}-Barking Cow Media Group.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Barking Cow Media Group.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Calle Cruzada.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{49d83cbf-f376-4d08-8e20-f04c8eb13a94}-Calle Cruzada.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Calle Cruzada.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Cave 76 Productions.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5eca558f-8552-44ed-a273-a4ed8077d642}-Cave 76 Productions.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Cave 76 Productions.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\CD Land.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5b7dfcf2-3a87-4483-a63b-e2012bf5d06b}-CD Land.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\CD Land.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Cinema Fund.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b4e5f2d9-47cf-4593-ad77-145791893e6d}-Cinema Fund.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Cinema Fund.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Cinevilla Studio.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{69c4ec8f-e8bf-4c28-b4f1-e442e1b3d580}-Cinevilla Studio.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Cinevilla Studio.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Colose Producciones.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{eb875a08-b396-4fae-a079-027168ebbce7}-Colose Producciones.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Colose Producciones.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Eidos Interactive.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9585edaa-ad1f-45a8-b464-5fcf987ecbec}-Eidos Interactive.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Eidos Interactive.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\F Films.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{85160d9c-319a-4ae7-9943-af73ce7e0980}-F Films.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\F Films.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Fairway Film Alliance.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4b475c26-75be-471f-80e9-b489a4a0cfda}-Fairway Film Alliance.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Fairway Film Alliance.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Farah Films.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{899a8301-4b08-4fa0-9c22-eeca195614ba}-Farah Films.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Farah Films.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\ICEC.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7b8690d9-da6e-47fb-8cba-82e5f0a6f6fa}-ICEC.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ICEC.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Movistar Plus.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{fdd5fe16-76b2-4a79-a81a-b04c14dd4cce}-Movistar Plus.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Movistar Plus.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Movistar.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4d810e85-0e4f-4e4d-a972-d35bfd798ecd}-Movistar.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Movistar.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Nostromo Pictures.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{56611ba9-f666-4daa-ac0f-c0bf1493eb7e}-Nostromo Pictures.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Nostromo Pictures.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Patriot Productions.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{77536167-d9a5-4faf-9df4-298ade1a2e0c}-Patriot Productions.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Patriot Productions.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Seven Bucks.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{98c96224-d26d-4004-84e9-c5390ac915ad}-Seven Bucks.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Seven Bucks.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\ShivHans Pictures.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a7a89f46-1ddd-479a-bf26-6c32146d9499}-ShivHans Pictures.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ShivHans Pictures.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Televisio de Catalunya.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5cce30f1-8c7e-49e3-94aa-e68276f0d413}-Televisio de Catalunya.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Televisio de Catalunya.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Think Studio.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{70ecd7c3-251f-4efb-9b2a-043c7cc29063}-Think Studio.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Think Studio.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Twisted Media.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{076e6811-184b-4845-aa84-068ae4472c8a}-Twisted Media.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Twisted Media.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Whitaker Entertainment.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c0cad61b-d337-4777-ad1d-fdc1eb33f240}-Whitaker Entertainment.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Whitaker Entertainment.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\НД Плэй.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{eb5a2dbb-4f02-4cc4-9b62-2176ddd64a35}-__ ____.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\НД Плэй.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -14088,7 +14263,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>31</Revision>
+      <Revision>33</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -14097,7 +14272,7 @@ White 161x109 pack</ExtensionDescription>
 </VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2018-06-08T13:46:50</ReleaseDate>
+    <ReleaseDate>2018-07-12T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -28050,6 +28225,181 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{d92634c6-a101-4fb4-9e55-0839ada56ede}-Picrow.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Picrow.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\7 Bucks Entertainment.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4f53b02e-c9a7-4f13-b9f0-1b53dc37bd3b}-7 Bucks Entertainment.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\7 Bucks Entertainment.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\ASAP Entertainment.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ab472f42-a53d-4d1c-ad61-da8de5a0bd67}-ASAP Entertainment.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ASAP Entertainment.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Barking Cow Media Group.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{02a0f164-0974-4997-8154-f44af534082a}-Barking Cow Media Group.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Barking Cow Media Group.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Calle Cruzada.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{49d83cbf-f376-4d08-8e20-f04c8eb13a94}-Calle Cruzada.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Calle Cruzada.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Cave 76 Productions.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5eca558f-8552-44ed-a273-a4ed8077d642}-Cave 76 Productions.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Cave 76 Productions.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\CD Land.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5b7dfcf2-3a87-4483-a63b-e2012bf5d06b}-CD Land.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\CD Land.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Cinema Fund.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b4e5f2d9-47cf-4593-ad77-145791893e6d}-Cinema Fund.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Cinema Fund.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Cinevilla Studio.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{69c4ec8f-e8bf-4c28-b4f1-e442e1b3d580}-Cinevilla Studio.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Cinevilla Studio.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Colose Producciones.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{eb875a08-b396-4fae-a079-027168ebbce7}-Colose Producciones.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Colose Producciones.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Eidos Interactive.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9585edaa-ad1f-45a8-b464-5fcf987ecbec}-Eidos Interactive.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Eidos Interactive.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\F Films.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{85160d9c-319a-4ae7-9943-af73ce7e0980}-F Films.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\F Films.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Fairway Film Alliance.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4b475c26-75be-471f-80e9-b489a4a0cfda}-Fairway Film Alliance.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Fairway Film Alliance.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Farah Films.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{899a8301-4b08-4fa0-9c22-eeca195614ba}-Farah Films.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Farah Films.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\ICEC.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{7b8690d9-da6e-47fb-8cba-82e5f0a6f6fa}-ICEC.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ICEC.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Movistar Plus.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{fdd5fe16-76b2-4a79-a81a-b04c14dd4cce}-Movistar Plus.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Movistar Plus.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Movistar.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4d810e85-0e4f-4e4d-a972-d35bfd798ecd}-Movistar.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Movistar.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Nostromo Pictures.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{56611ba9-f666-4daa-ac0f-c0bf1493eb7e}-Nostromo Pictures.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Nostromo Pictures.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Patriot Productions.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{77536167-d9a5-4faf-9df4-298ade1a2e0c}-Patriot Productions.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Patriot Productions.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Seven Bucks.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{98c96224-d26d-4004-84e9-c5390ac915ad}-Seven Bucks.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Seven Bucks.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\ShivHans Pictures.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a7a89f46-1ddd-479a-bf26-6c32146d9499}-ShivHans Pictures.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ShivHans Pictures.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Televisio de Catalunya.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5cce30f1-8c7e-49e3-94aa-e68276f0d413}-Televisio de Catalunya.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Televisio de Catalunya.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Think Studio.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{70ecd7c3-251f-4efb-9b2a-043c7cc29063}-Think Studio.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Think Studio.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Twisted Media.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{076e6811-184b-4845-aa84-068ae4472c8a}-Twisted Media.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Twisted Media.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Whitaker Entertainment.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c0cad61b-d337-4777-ad1d-fdc1eb33f240}-Whitaker Entertainment.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Whitaker Entertainment.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\НД Плэй.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{eb5a2dbb-4f02-4cc4-9b62-2176ddd64a35}-__ ____.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\НД Плэй.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -28061,7 +28411,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{ce36c322-6288-48ae-9cad-8a9395aa5033}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{50de0d95-b270-48ae-a75b-6dcefa0aeb93}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
