@@ -14268,6 +14268,27 @@
               <ZipFileName>Installer{CopyFile}\{c5861fa1-f70e-44ac-8855-a97f05e75957}-____________ _____ ____.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Продюсерский центр ИВАН.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\#0.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{62e8f222-b73c-4c8f-b72d-46c260d2c63e}-#0.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\#0.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Paragon Entertainment Corporation.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{24f78fe6-117a-497a-b235-edcd6452619a}-Paragon Entertainment Corporation.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Paragon Entertainment Corporation.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Ukrainian State Film Agency.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{dcf23584-9c1d-4402-bb64-23035c83d608}-Ukrainian State Film Agency.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Ukrainian State Film Agency.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -14431,7 +14452,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>35</Revision>
+      <Revision>37</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -14440,7 +14461,7 @@ White 161x109 pack</ExtensionDescription>
 Some update...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2018-07-12T13:46:50</ReleaseDate>
+    <ReleaseDate>2019-02-06T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -28735,6 +28756,27 @@ Some update...</VersionDescription>
         <LocalFileName>..\studios\Продюсерский центр ИВАН.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{c5861fa1-f70e-44ac-8855-a97f05e75957}-____________ _____ ____.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Продюсерский центр ИВАН.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\#0.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{62e8f222-b73c-4c8f-b72d-46c260d2c63e}-#0.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\#0.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Paragon Entertainment Corporation.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{24f78fe6-117a-497a-b235-edcd6452619a}-Paragon Entertainment Corporation.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Paragon Entertainment Corporation.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Ukrainian State Film Agency.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{dcf23584-9c1d-4402-bb64-23035c83d608}-Ukrainian State Film Agency.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Ukrainian State Film Agency.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
