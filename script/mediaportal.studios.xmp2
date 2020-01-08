@@ -15143,6 +15143,20 @@
               <ZipFileName>Installer{CopyFile}\{f793102e-f388-41ea-b1fa-8098bd43d10f}-IRIB TV4.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\IRIB TV4.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\CraveTV.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d4bff245-7abb-46ba-a693-9de87e8214f0}-CraveTV.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\CraveTV.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Rollercoaster Angel.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{03207dbd-164a-45b8-970c-f437e45d7198}-Rollercoaster Angel.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Rollercoaster Angel.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -15306,16 +15320,15 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>45</Revision>
+      <Revision>47</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
 White 161x109 pack</ExtensionDescription>
-    <VersionDescription>Add new studios...
-Some update...</VersionDescription>
+    <VersionDescription>Add new studios...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2019-12-29T13:46:50</ReleaseDate>
+    <ReleaseDate>2020-01-08T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -30486,6 +30499,20 @@ Some update...</VersionDescription>
         <ZipFileName>Installer{CopyFile}\{f793102e-f388-41ea-b1fa-8098bd43d10f}-IRIB TV4.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\IRIB TV4.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\CraveTV.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d4bff245-7abb-46ba-a693-9de87e8214f0}-CraveTV.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\CraveTV.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Rollercoaster Angel.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{03207dbd-164a-45b8-970c-f437e45d7198}-Rollercoaster Angel.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Rollercoaster Angel.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -30497,7 +30524,7 @@ Some update...</VersionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{a1ce89a0-b888-45eb-b793-e12c5c90eb53}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{b10dca2c-fec2-47cd-a7cd-7f27abaaf092}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
