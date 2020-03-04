@@ -15157,6 +15157,27 @@
               <ZipFileName>Installer{CopyFile}\{03207dbd-164a-45b8-970c-f437e45d7198}-Rollercoaster Angel.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Rollercoaster Angel.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\FOX Turkiye.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bf22227c-1d6b-4b3a-bf5b-f8068cde0982}-FOX Turkiye.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\FOX Turkiye.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\France 4.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f318cf13-d2a2-41c1-be9b-e8629be64c33}-France 4.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\France 4.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Kanal D.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3a00c48d-55d2-4dfb-b908-468a7c960028}-Kanal D.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Kanal D.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -15320,7 +15341,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>47</Revision>
+      <Revision>49</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -15328,7 +15349,7 @@ White 161x109 pack</ExtensionDescription>
     <VersionDescription>Add new studios...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2020-01-08T13:46:50</ReleaseDate>
+    <ReleaseDate>2020-03-04T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -30513,6 +30534,27 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{03207dbd-164a-45b8-970c-f437e45d7198}-Rollercoaster Angel.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Rollercoaster Angel.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\FOX Turkiye.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bf22227c-1d6b-4b3a-bf5b-f8068cde0982}-FOX Turkiye.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\FOX Turkiye.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\France 4.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f318cf13-d2a2-41c1-be9b-e8629be64c33}-France 4.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\France 4.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Kanal D.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3a00c48d-55d2-4dfb-b908-468a7c960028}-Kanal D.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Kanal D.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -30524,7 +30566,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{b10dca2c-fec2-47cd-a7cd-7f27abaaf092}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{59c38927-6b7e-41e6-bdc4-a934ad0b73b9}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
