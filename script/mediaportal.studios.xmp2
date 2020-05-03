@@ -15220,6 +15220,13 @@
               <ZipFileName>Installer{CopyFile}\{2146079c-8d78-4556-9522-649823a53b66}-_____-_______.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Медиа-Телеком.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Apple TV.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1f9a14b4-14b1-43c0-8e07-da51d181dd81}-Apple TV.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Apple TV.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -15383,7 +15390,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>51</Revision>
+      <Revision>55</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -30639,6 +30646,13 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{2146079c-8d78-4556-9522-649823a53b66}-_____-_______.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Медиа-Телеком.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Apple TV.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{1f9a14b4-14b1-43c0-8e07-da51d181dd81}-Apple TV.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Apple TV.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -30650,7 +30664,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{92dea8c0-9cc3-43e8-a56d-46bb97047f88}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{8ca68e64-6193-4b36-a61f-44b60231c669}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
