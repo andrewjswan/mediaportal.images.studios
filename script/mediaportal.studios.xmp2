@@ -15178,6 +15178,48 @@
               <ZipFileName>Installer{CopyFile}\{3a00c48d-55d2-4dfb-b908-468a7c960028}-Kanal D.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Kanal D.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\AGBO.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c2ccf1c3-6c11-464d-9f1b-81fc51a322b2}-AGBO.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\AGBO.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Kodansha.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{05dcc2c8-1155-4bf6-9763-f23d5f675dbb}-Kodansha.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Kodansha.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Sumitomo Corporation.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1738a4a1-c25a-4b38-9bed-41640fcd94c2}-Sumitomo Corporation.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Sumitomo Corporation.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\TGIM Films.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a2656d5a-d19b-4ddc-a0bb-54f0ee608d42}-TGIM Films.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TGIM Films.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Thematic Entertainment.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a309e019-6259-4cb8-ba0f-de3b1ce315c7}-Thematic Entertainment.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Thematic Entertainment.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Медиа-Телеком.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2146079c-8d78-4556-9522-649823a53b66}-_____-_______.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Медиа-Телеком.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -15341,7 +15383,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>49</Revision>
+      <Revision>51</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -15349,7 +15391,7 @@ White 161x109 pack</ExtensionDescription>
     <VersionDescription>Add new studios...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2020-03-04T13:46:50</ReleaseDate>
+    <ReleaseDate>2020-05-03T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -30555,6 +30597,48 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{3a00c48d-55d2-4dfb-b908-468a7c960028}-Kanal D.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Kanal D.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\AGBO.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c2ccf1c3-6c11-464d-9f1b-81fc51a322b2}-AGBO.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\AGBO.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Kodansha.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{05dcc2c8-1155-4bf6-9763-f23d5f675dbb}-Kodansha.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Kodansha.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Sumitomo Corporation.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{1738a4a1-c25a-4b38-9bed-41640fcd94c2}-Sumitomo Corporation.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Sumitomo Corporation.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\TGIM Films.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a2656d5a-d19b-4ddc-a0bb-54f0ee608d42}-TGIM Films.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TGIM Films.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Thematic Entertainment.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a309e019-6259-4cb8-ba0f-de3b1ce315c7}-Thematic Entertainment.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Thematic Entertainment.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Медиа-Телеком.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2146079c-8d78-4556-9522-649823a53b66}-_____-_______.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Медиа-Телеком.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -30566,7 +30650,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{59c38927-6b7e-41e6-bdc4-a934ad0b73b9}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{92dea8c0-9cc3-43e8-a56d-46bb97047f88}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
