@@ -15241,6 +15241,13 @@
               <ZipFileName>Installer{CopyFile}\{f04bad24-dfef-44d2-9a09-2e6e8414ac28}-____.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Союз.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\ATV Turkiye.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{43ad32f2-a796-4c61-8765-c917ea825fc7}-ATV Turkiye.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ATV Turkiye.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -15404,7 +15411,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>57</Revision>
+      <Revision>59</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -15412,7 +15419,7 @@ White 161x109 pack</ExtensionDescription>
     <VersionDescription>Add new studios...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2020-07-15T13:46:50</ReleaseDate>
+    <ReleaseDate>2020-07-29T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -30680,6 +30687,13 @@ White 161x109 pack</ExtensionDescription>
         <LocalFileName>..\studios\Союз.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{f04bad24-dfef-44d2-9a09-2e6e8414ac28}-____.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Союз.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\ATV Turkiye.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{43ad32f2-a796-4c61-8765-c917ea825fc7}-ATV Turkiye.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ATV Turkiye.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
