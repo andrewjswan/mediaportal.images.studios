@@ -15248,6 +15248,13 @@
               <ZipFileName>Installer{CopyFile}\{43ad32f2-a796-4c61-8765-c917ea825fc7}-ATV Turkiye.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ATV Turkiye.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Umbrella entertainment.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f209704f-7109-49b3-b927-951ff7335b0e}-Umbrella entertainment.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Umbrella entertainment.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -15411,7 +15418,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>59</Revision>
+      <Revision>61</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -30695,6 +30702,13 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{43ad32f2-a796-4c61-8765-c917ea825fc7}-ATV Turkiye.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\ATV Turkiye.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Umbrella entertainment.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f209704f-7109-49b3-b927-951ff7335b0e}-Umbrella entertainment.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Umbrella entertainment.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -30706,7 +30720,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{2f0895b7-b747-4c18-8139-34b045d51df0}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{7c919b66-c1ca-4bf9-80dd-3ff8f728d52f}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
