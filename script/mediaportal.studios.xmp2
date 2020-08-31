@@ -15255,6 +15255,34 @@
               <ZipFileName>Installer{CopyFile}\{f209704f-7109-49b3-b927-951ff7335b0e}-Umbrella entertainment.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Umbrella entertainment.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Premier.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{30ae0e96-eb43-431f-ae73-541096312aed}-Premier.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Premier.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\VTM 2.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{22a39ac7-187f-4255-87fa-a12b9ff78ad6}-VTM 2.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\VTM 2.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\VTM 3.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{fb2442e2-fb54-4793-a32e-a6ba78a10e38}-VTM 3.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\VTM 3.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\VTM 4.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a879d930-e691-4a6f-b3ec-432c47c7f232}-VTM 4.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\VTM 4.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -15418,7 +15446,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>61</Revision>
+      <Revision>63</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -15426,7 +15454,7 @@ White 161x109 pack</ExtensionDescription>
     <VersionDescription>Add new studios...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2020-07-29T13:46:50</ReleaseDate>
+    <ReleaseDate>2020-08-31T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -30709,6 +30737,34 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{f209704f-7109-49b3-b927-951ff7335b0e}-Umbrella entertainment.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Umbrella entertainment.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Premier.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{30ae0e96-eb43-431f-ae73-541096312aed}-Premier.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Premier.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\VTM 2.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{22a39ac7-187f-4255-87fa-a12b9ff78ad6}-VTM 2.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\VTM 2.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\VTM 3.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{fb2442e2-fb54-4793-a32e-a6ba78a10e38}-VTM 3.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\VTM 3.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\VTM 4.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a879d930-e691-4a6f-b3ec-432c47c7f232}-VTM 4.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\VTM 4.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -30720,7 +30776,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{7c919b66-c1ca-4bf9-80dd-3ff8f728d52f}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{4caa8891-37f8-4d48-82c3-431a4ddf6af8}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
