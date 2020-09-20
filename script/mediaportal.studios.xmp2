@@ -15290,6 +15290,20 @@
               <ZipFileName>Installer{CopyFile}\{c4647379-1ace-4bef-b64d-1fffbd9b50ca}-HBO Max.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\HBO Max.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Fox Sports.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4cbe3221-e2f4-4581-a60e-499f72defc2a}-Fox Sports.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Fox Sports.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\wwe network.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0cd80613-d7d0-40c6-ba80-e724074867ae}-wwe network.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\wwe network.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -15453,7 +15467,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>65</Revision>
+      <Revision>67</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -15461,7 +15475,7 @@ White 161x109 pack</ExtensionDescription>
     <VersionDescription>Add new studios...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2020-09-12T13:46:50</ReleaseDate>
+    <ReleaseDate>2020-09-17T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -30778,6 +30792,20 @@ White 161x109 pack</ExtensionDescription>
         <LocalFileName>..\studios\HBO Max.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{c4647379-1ace-4bef-b64d-1fffbd9b50ca}-HBO Max.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\HBO Max.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Fox Sports.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4cbe3221-e2f4-4581-a60e-499f72defc2a}-Fox Sports.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Fox Sports.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\wwe network.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0cd80613-d7d0-40c6-ba80-e724074867ae}-wwe network.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\wwe network.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
