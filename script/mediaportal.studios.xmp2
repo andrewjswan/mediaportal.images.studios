@@ -15304,6 +15304,27 @@
               <ZipFileName>Installer{CopyFile}\{0cd80613-d7d0-40c6-ba80-e724074867ae}-wwe network.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\wwe network.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\GYAO!.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{087c6537-0de6-4a53-b9e9-988afe5da4a9}-GYAO!.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\GYAO!.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\tvk.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a003ccf5-8d16-4111-b5d3-2a556f1d32b0}-tvk.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\tvk.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Киностудия Довженко.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4b09a6b7-8ea6-4965-a200-30f975ab6756}-__________ ________.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Киностудия Довженко.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -15467,7 +15488,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>67</Revision>
+      <Revision>69</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -15475,7 +15496,7 @@ White 161x109 pack</ExtensionDescription>
     <VersionDescription>Add new studios...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2020-09-17T13:46:50</ReleaseDate>
+    <ReleaseDate>2020-10-27T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -30806,6 +30827,27 @@ White 161x109 pack</ExtensionDescription>
         <LocalFileName>..\studios\wwe network.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{0cd80613-d7d0-40c6-ba80-e724074867ae}-wwe network.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\wwe network.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\GYAO!.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{087c6537-0de6-4a53-b9e9-988afe5da4a9}-GYAO!.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\GYAO!.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\tvk.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a003ccf5-8d16-4111-b5d3-2a556f1d32b0}-tvk.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\tvk.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Киностудия Довженко.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4b09a6b7-8ea6-4965-a200-30f975ab6756}-__________ ________.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Киностудия Довженко.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
