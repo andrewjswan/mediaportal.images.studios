@@ -8433,13 +8433,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\studios\tv 4.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{34898395-a31c-48a1-a852-45d51621a11c}-tv 4.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\tv 4.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\studios\TV Asahi.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3fa7d97f-e412-4ccb-bb0f-65e8255db077}-TV Asahi.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV Asahi.png</DestinationFilename>
@@ -8471,13 +8464,6 @@
               <LocalFileName>..\studios\TV1.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{2ddeb5cf-589e-42db-b786-3e529bcdf205}-TV1.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV1.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\studios\TV2 Danmark.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{f1c58607-b79b-441c-a823-635cebbe01f6}-TV2 Danmark.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV2 Danmark.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
@@ -9976,13 +9962,6 @@
               <LocalFileName>..\studios\Trigger Street.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{0e08d097-fa9f-4fcc-a97f-b83286ef01d9}-Trigger Street.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Trigger Street.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\studios\TV 4.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{e6d58990-7afe-4cb5-bd5f-e0dcad5d8f84}-TV 4.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV 4.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
@@ -15717,6 +15696,20 @@
               <ZipFileName>Installer{CopyFile}\{1f9b0f89-71b4-4ff4-b042-ab965ead6ae9}-_____ ______.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Театр Сатиры.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\SVT1.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8e3eae1f-9bbf-4e6f-b159-49b02b1098ec}-SVT1.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\SVT1.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\TV3 (NO).png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7ae65caf-72dd-45ae-8eed-a07d33ba5d2a}-TV3 (NO).png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV3 (NO).png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -15880,7 +15873,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>71</Revision>
+      <Revision>73</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -15888,7 +15881,7 @@ White 161x109 pack</ExtensionDescription>
     <VersionDescription>Add new studios...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2021-02-16T13:46:50</ReleaseDate>
+    <ReleaseDate>2021-03-09T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -24349,13 +24342,6 @@ White 161x109 pack</ExtensionDescription>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\studios\tv 4.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{34898395-a31c-48a1-a852-45d51621a11c}-tv 4.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\tv 4.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\studios\TV Asahi.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3fa7d97f-e412-4ccb-bb0f-65e8255db077}-TV Asahi.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV Asahi.png</DestinationFilename>
@@ -24387,13 +24373,6 @@ White 161x109 pack</ExtensionDescription>
         <LocalFileName>..\studios\TV1.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{2ddeb5cf-589e-42db-b786-3e529bcdf205}-TV1.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV1.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\studios\TV2 Danmark.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{f1c58607-b79b-441c-a823-635cebbe01f6}-TV2 Danmark.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV2 Danmark.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
@@ -25892,13 +25871,6 @@ White 161x109 pack</ExtensionDescription>
         <LocalFileName>..\studios\Trigger Street.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{0e08d097-fa9f-4fcc-a97f-b83286ef01d9}-Trigger Street.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Trigger Street.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\studios\TV 4.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{e6d58990-7afe-4cb5-bd5f-e0dcad5d8f84}-TV 4.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV 4.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
@@ -31633,6 +31605,20 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{1f9b0f89-71b4-4ff4-b042-ab965ead6ae9}-_____ ______.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Театр Сатиры.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\SVT1.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8e3eae1f-9bbf-4e6f-b159-49b02b1098ec}-SVT1.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\SVT1.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\TV3 (NO).png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{7ae65caf-72dd-45ae-8eed-a07d33ba5d2a}-TV3 (NO).png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV3 (NO).png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -31644,7 +31630,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{ea29b9d2-ea63-4aa5-ad39-903477cb6e62}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{5013d2af-39bf-4231-9ca1-e446afe31643}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
