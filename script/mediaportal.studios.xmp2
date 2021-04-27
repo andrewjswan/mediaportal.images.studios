@@ -15710,6 +15710,76 @@
               <ZipFileName>Installer{CopyFile}\{7ae65caf-72dd-45ae-8eed-a07d33ba5d2a}-TV3 (NO).png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV3 (NO).png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Fasten.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ea9eac3f-3aff-492e-9987-6cdd9ec59564}-Fasten.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Fasten.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Gloob.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{72098fd8-1c37-45a9-8edb-e554fc204dac}-Gloob.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Gloob.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Hydraulx.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c68575da-a001-4bd9-af4b-9552550006e9}-Hydraulx.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Hydraulx.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Lipsync.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c8fce19b-e6ff-465c-aecb-a5f1b1886f01}-Lipsync.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Lipsync.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\M45.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d9d3ac4d-1bcf-422c-8974-955cafc26f9d}-M45.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\M45.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\MFC.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{327a94a6-56a9-4107-b953-cee8ef645c73}-MFC.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\MFC.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Migdal Filmes.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e6ad57a1-7ff8-4bf9-8392-556d5db105ac}-Migdal Filmes.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Migdal Filmes.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Milkshake!.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{55c43ded-5130-4368-b627-3480bbf59003}-Milkshake!.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Milkshake!.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Rovio Animation.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{dd528b89-93f7-4703-8d61-3e1c9ee7f400}-Rovio Animation.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Rovio Animation.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\TV Globo.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9c861f23-8a16-4cb2-bcff-9f7d8225ffd9}-TV Globo.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV Globo.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -15873,7 +15943,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>73</Revision>
+      <Revision>75</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -15881,7 +15951,7 @@ White 161x109 pack</ExtensionDescription>
     <VersionDescription>Add new studios...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2021-03-09T13:46:50</ReleaseDate>
+    <ReleaseDate>2021-04-27T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -31619,6 +31689,76 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{7ae65caf-72dd-45ae-8eed-a07d33ba5d2a}-TV3 (NO).png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV3 (NO).png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Fasten.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ea9eac3f-3aff-492e-9987-6cdd9ec59564}-Fasten.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Fasten.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Gloob.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{72098fd8-1c37-45a9-8edb-e554fc204dac}-Gloob.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Gloob.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Hydraulx.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c68575da-a001-4bd9-af4b-9552550006e9}-Hydraulx.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Hydraulx.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Lipsync.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c8fce19b-e6ff-465c-aecb-a5f1b1886f01}-Lipsync.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Lipsync.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\M45.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d9d3ac4d-1bcf-422c-8974-955cafc26f9d}-M45.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\M45.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\MFC.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{327a94a6-56a9-4107-b953-cee8ef645c73}-MFC.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\MFC.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Migdal Filmes.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e6ad57a1-7ff8-4bf9-8392-556d5db105ac}-Migdal Filmes.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Migdal Filmes.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Milkshake!.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{55c43ded-5130-4368-b627-3480bbf59003}-Milkshake!.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Milkshake!.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Rovio Animation.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{dd528b89-93f7-4703-8d61-3e1c9ee7f400}-Rovio Animation.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Rovio Animation.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\TV Globo.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9c861f23-8a16-4cb2-bcff-9f7d8225ffd9}-TV Globo.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV Globo.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -31630,7 +31770,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{5013d2af-39bf-4231-9ca1-e446afe31643}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{51a38f3f-b397-4260-af1e-eddda1b1e7f7}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
