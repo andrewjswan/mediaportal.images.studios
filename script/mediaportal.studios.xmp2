@@ -16025,6 +16025,76 @@
               <ZipFileName>Installer{CopyFile}\{9e5048cc-658b-414c-aa73-a1d85ccc14de}-____________ __________.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Свердловская киностудия.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Fastnet Films.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{606819c4-42d8-4be8-839a-8bba0dddeb3e}-Fastnet Films.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Fastnet Films.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Filimo.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f25c93e7-2d07-405d-a4e7-5edbbc5698ef}-Filimo.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Filimo.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Headlong Entertainment.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{cef3f005-ee1f-4c21-bd38-779e47e4b918}-Headlong Entertainment.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Headlong Entertainment.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Jewson Film.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d3a7eab8-b43c-4bcb-a8da-5cc60dbfd6c3}-Jewson Film.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Jewson Film.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Number 9 Films.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{64201c9e-b223-441b-bc0d-b31bb20f4bc1}-Number 9 Films.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Number 9 Films.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Off Camera Entertainment.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c29edc0d-f11b-4268-98ea-7c40e3a6691c}-Off Camera Entertainment.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Off Camera Entertainment.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Simaye Mehr.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{514baf4d-9608-4962-82f6-92a314003064}-Simaye Mehr.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Simaye Mehr.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\TV2 (NZ).png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3566b6bb-d8af-4d3d-b9f1-cadd95723474}-TV2 (NZ).png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV2 (NZ).png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Wrigley Pictures.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{94f0cd95-5613-4071-876e-ce3fef44295d}-Wrigley Pictures.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Wrigley Pictures.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\studios\Yomiuri Telecasting.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{52159ef7-4733-4b65-bdd2-74bc5e3de2c7}-Yomiuri Telecasting.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Yomiuri Telecasting.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -16188,7 +16258,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>79</Revision>
+      <Revision>81</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -16196,7 +16266,7 @@ White 161x109 pack</ExtensionDescription>
     <VersionDescription>Add new studios...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.studios/master/build/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2021-11-24T13:46:50</ReleaseDate>
+    <ReleaseDate>2022-02-01T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios</Tags>
     <Location>..\build\mediaportal.studios.mpe1</Location>
     <Params>
@@ -32249,6 +32319,76 @@ White 161x109 pack</ExtensionDescription>
         <ZipFileName>Installer{CopyFile}\{9e5048cc-658b-414c-aa73-a1d85ccc14de}-____________ __________.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Свердловская киностудия.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Fastnet Films.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{606819c4-42d8-4be8-839a-8bba0dddeb3e}-Fastnet Films.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Fastnet Films.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Filimo.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f25c93e7-2d07-405d-a4e7-5edbbc5698ef}-Filimo.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Filimo.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Headlong Entertainment.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{cef3f005-ee1f-4c21-bd38-779e47e4b918}-Headlong Entertainment.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Headlong Entertainment.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Jewson Film.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d3a7eab8-b43c-4bcb-a8da-5cc60dbfd6c3}-Jewson Film.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Jewson Film.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Number 9 Films.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{64201c9e-b223-441b-bc0d-b31bb20f4bc1}-Number 9 Films.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Number 9 Films.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Off Camera Entertainment.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c29edc0d-f11b-4268-98ea-7c40e3a6691c}-Off Camera Entertainment.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Off Camera Entertainment.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Simaye Mehr.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{514baf4d-9608-4962-82f6-92a314003064}-Simaye Mehr.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Simaye Mehr.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\TV2 (NZ).png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3566b6bb-d8af-4d3d-b9f1-cadd95723474}-TV2 (NZ).png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\TV2 (NZ).png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Wrigley Pictures.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{94f0cd95-5613-4071-876e-ce3fef44295d}-Wrigley Pictures.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Wrigley Pictures.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\studios\Yomiuri Telecasting.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{52159ef7-4733-4b65-bdd2-74bc5e3de2c7}-Yomiuri Telecasting.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Studios\Yomiuri Telecasting.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -32260,7 +32400,7 @@ White 161x109 pack</ExtensionDescription>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{51a38f3f-b397-4260-af1e-eddda1b1e7f7}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{dfc4b1c6-33b7-4ebb-8d36-fa7acafdd026}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
