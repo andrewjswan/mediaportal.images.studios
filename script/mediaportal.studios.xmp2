@@ -16980,7 +16980,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>89</Revision>
+      <Revision>91</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Studios images for Medaportal skins
 
@@ -16988,7 +16988,7 @@ White 161x109 pack</ExtensionDescription>
     <VersionDescription>Add new studios...</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://github.com/andrewjswan/mediaportal.images.studios/releases/download/v[Version]/mediaportal.studios.mpe1</OnlineLocation>
-    <ReleaseDate>2025-04-08T13:46:50</ReleaseDate>
+    <ReleaseDate>2025-04-11T13:46:50</ReleaseDate>
     <Tags>mediaportal, studios, images</Tags>
     <PlatformCompatibility>AnyCPU</PlatformCompatibility>
     <Location>..\build\mediaportal.studios.mpe1</Location>
